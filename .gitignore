@@ -1,0 +1,4 @@
+# ROS2 typische Build-Ordner ignorieren
+build/
+install/
+log/
